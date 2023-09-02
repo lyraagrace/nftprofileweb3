@@ -6,3 +6,5 @@
 - 0xlyra (5).jpg
 - 0xlyra (6).jpg
 - 0xlyra (7).jpg
+- 0xlyra (8).jpg
+- 0xlyra (9).jpg
