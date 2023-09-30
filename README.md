@@ -1,4 +1,4 @@
-# NFT PROFILE FOR WEB3
+# NFT PROFILES FOR WEB3
 
 - 0xlyra (1).jpg
 - 0xlyra (2).jpg
